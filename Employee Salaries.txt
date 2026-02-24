@@ -3,3 +3,5 @@ Rohit 45000
 Virat 18000
 dhoni 7000
 bumrah 40000
+sky 35000
+trent 20000
